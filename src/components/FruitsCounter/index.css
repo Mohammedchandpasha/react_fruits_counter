@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffd569;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.fruits-container {
+  background-color: white;
+  margin: 100px;
+  height: 100vh;
+  padding: 50px;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image {
+  height: 120px;
+  width: 120px;
+}
+.mango-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.count-color {
+  color: #ffd569;
+}
